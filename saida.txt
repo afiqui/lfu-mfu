@@ -1,0 +1,32 @@
+EVOLUÇÃO (LFU)
+2 2 2 2 _ 2 5 
+  3 3 3 _ 3 3 
+    4 4 _ 4 4 
+      6 _ 6 6 
+          7 7 
+
+Acertos 
+1
+Erros 
+6
+Total de Requisições: 
+7
+Taxa de Erro: 
+0.86
+
+ 
+EVOLUÇÃO (MFU)
+2 2 2 2 _ 2 2 
+  3 3 3 _ 3 3 
+    4 4 _ 4 4 
+      6 _ 6 5 
+          7 7 
+
+Acertos 
+1
+Erros 
+6
+Total de Requisições: 
+7
+Taxa de Erro: 
+0.86
